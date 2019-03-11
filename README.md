@@ -23,7 +23,7 @@ Deverá ser respeitada a stack atual, utilizando:
 - Backend Java Spring Boot;
 - Front Angular 2+;
 - Typescript;
-- Controle de versão e deploy Git.
+- Controle de versão.
 
 É essencial elaborar brevemente sobre sua solução, detalhes de arquitetura, escolha de padrões, frameworks e componentes.
 ##
